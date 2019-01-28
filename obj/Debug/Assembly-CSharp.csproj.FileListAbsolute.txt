@@ -69,3 +69,4 @@ C:\Users\Lianne Lim\Documents\GameDev\GGJ2019 Project\Temp\bin\Debug\UnityEditor
 C:\Users\Lianne Lim\Documents\GameDev\GGJ2019 Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Lianne Lim\Documents\GameDev\GGJ2019 Project\obj\Debug\Assembly-CSharp.dll
 C:\Users\Lianne Lim\Documents\GameDev\GGJ2019 Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lianne Lim\Documents\GameDev\GGJ2019 Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
